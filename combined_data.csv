@@ -1,0 +1,226 @@
+name,date,sleep_hours,sleep_quality,spend_inr,category,screen_time,worked_out,data_source
+Deepu Francis,2026-07-15,9.6,5,139.0,Food,7.2,1,synthetic
+Deepu Francis,2026-07-16,10.5,5,276.0,Other,7.5,1,synthetic
+Deepu Francis,2026-07-17,8.4,4,193.0,Shopping,4.4,1,synthetic
+Deepu Francis,2026-07-18,8.4,4,12.0,Food,4.2,0,synthetic
+Deepu Francis,2026-07-19,7.9,4,37.0,Shopping,9.3,1,synthetic
+Deepu Francis,2026-07-20,8.7,4,106.0,Food,5.9,0,synthetic
+Deepu Francis,2026-07-21,8.3,4,127.0,Shopping,4.1,1,synthetic
+Deepu Francis,2026-07-22,10.5,5,216.0,Shopping,2.5,1,synthetic
+Deepu Francis,2026-07-23,7.4,4,166.0,Food,7.4,1,synthetic
+Deepu Francis,2026-07-24,9.2,5,141.0,Food,4.8,1,synthetic
+Deepu Francis,2026-07-25,8.4,4,235.0,Entertainment,6.5,1,synthetic
+Deepu Francis,2026-07-26,6.9,3,96.0,Entertainment,7.1,1,synthetic
+Deepu Francis,2026-07-27,10.2,5,231.0,Transport,3.7,0,synthetic
+Deepu Francis,2026-07-28,8.6,4,112.0,Food,5.1,1,synthetic
+Deepu Francis,2026-07-29,10.0,5,258.0,Entertainment,5.4,1,synthetic
+Deepu Francis,2026-07-30,10.2,5,179.0,Shopping,9.4,0,synthetic
+Deepu Francis,2026-07-31,5.9,3,216.0,Shopping,5.8,1,synthetic
+Deepu Francis,2026-08-01,8.6,4,201.0,Entertainment,8.2,1,synthetic
+Deepu Francis,2026-08-02,8.0,4,110.0,Food,7.9,0,synthetic
+Deepu Francis,2026-08-03,9.4,5,158.0,Bills,8.0,0,synthetic
+Deepu Francis,2026-08-04,8.2,4,124.0,Bills,4.6,0,synthetic
+Deepu Francis,2026-08-05,7.2,4,150.0,Food,5.0,1,synthetic
+Deepu Francis,2026-08-06,8.6,4,86.0,Entertainment,5.2,0,synthetic
+Deepu Francis,2026-08-07,9.5,5,171.0,Food,5.4,0,synthetic
+Deepu Francis,2026-08-12,9.0,4,50.0,Food,5.6,0,real
+Girish P T,2026-07-15,6.1,3,156.0,Food,9.5,1,synthetic
+Girish P T,2026-07-16,5.8,3,238.0,Food,5.6,0,synthetic
+Girish P T,2026-07-17,6.3,3,180.0,Other,6.2,1,synthetic
+Girish P T,2026-07-18,6.3,3,77.0,Bills,3.1,0,synthetic
+Girish P T,2026-07-19,5.1,3,176.0,Bills,7.5,1,synthetic
+Girish P T,2026-07-20,7.8,4,260.0,Shopping,5.9,1,synthetic
+Girish P T,2026-07-21,6.4,3,84.0,Shopping,6.9,0,synthetic
+Girish P T,2026-07-22,7.8,4,242.0,Other,5.5,1,synthetic
+Girish P T,2026-07-23,6.3,3,151.0,Shopping,5.8,0,synthetic
+Girish P T,2026-07-24,5.1,3,310.0,Transport,9.1,1,synthetic
+Girish P T,2026-07-25,7.0,4,280.0,Food,14.0,1,synthetic
+Girish P T,2026-07-26,5.0,3,0.0,Food,4.3,0,synthetic
+Girish P T,2026-07-27,6.4,3,418.0,Food,10.9,0,synthetic
+Girish P T,2026-07-28,5.3,3,80.0,Bills,11.1,0,synthetic
+Girish P T,2026-07-29,7.4,4,214.0,Entertainment,3.9,0,synthetic
+Girish P T,2026-07-30,7.6,4,141.0,Food,8.7,1,synthetic
+Girish P T,2026-07-31,6.0,3,154.0,Food,4.5,1,synthetic
+Girish P T,2026-08-01,6.7,3,219.0,Transport,8.4,1,synthetic
+Girish P T,2026-08-02,4.2,2,267.0,Entertainment,6.8,0,synthetic
+Girish P T,2026-08-03,5.1,3,415.0,Transport,10.0,0,synthetic
+Girish P T,2026-08-04,5.7,3,342.0,Food,10.1,0,synthetic
+Girish P T,2026-08-05,7.6,4,313.0,Shopping,3.2,1,synthetic
+Girish P T,2026-08-06,5.7,3,207.0,Transport,9.4,1,synthetic
+Girish P T,2026-08-07,6.1,3,93.0,Other,7.4,0,synthetic
+Girish P T,2026-08-12,6.0,4,50.0,Donation,5.6,0,real
+Gowrikrishna.R,2026-07-15,9.1,5,131.0,Shopping,14.0,1,synthetic
+Gowrikrishna.R,2026-07-16,10.1,5,205.0,Food,14.0,1,synthetic
+Gowrikrishna.R,2026-07-17,9.4,5,237.0,Food,14.0,0,synthetic
+Gowrikrishna.R,2026-07-18,8.7,4,92.0,Shopping,14.0,1,synthetic
+Gowrikrishna.R,2026-07-19,10.5,5,201.0,Food,14.0,0,synthetic
+Gowrikrishna.R,2026-07-20,10.2,5,87.0,Other,14.0,1,synthetic
+Gowrikrishna.R,2026-07-21,10.5,5,219.0,Food,14.0,1,synthetic
+Gowrikrishna.R,2026-07-22,9.6,5,291.0,Food,14.0,0,synthetic
+Gowrikrishna.R,2026-07-23,10.5,5,233.0,Entertainment,14.0,1,synthetic
+Gowrikrishna.R,2026-07-24,9.4,5,186.0,Food,14.0,1,synthetic
+Gowrikrishna.R,2026-07-25,6.1,3,68.0,Transport,14.0,1,synthetic
+Gowrikrishna.R,2026-07-26,8.5,4,168.0,Transport,14.0,1,synthetic
+Gowrikrishna.R,2026-07-27,10.5,5,151.0,Transport,14.0,1,synthetic
+Gowrikrishna.R,2026-07-28,10.5,5,156.0,Transport,14.0,0,synthetic
+Gowrikrishna.R,2026-07-29,10.5,5,51.0,Shopping,14.0,0,synthetic
+Gowrikrishna.R,2026-07-30,7.7,4,172.0,Food,14.0,1,synthetic
+Gowrikrishna.R,2026-07-31,9.3,5,218.0,Bills,14.0,0,synthetic
+Gowrikrishna.R,2026-08-01,9.2,5,215.0,Food,14.0,1,synthetic
+Gowrikrishna.R,2026-08-02,10.5,5,199.0,Entertainment,14.0,1,synthetic
+Gowrikrishna.R,2026-08-03,10.1,5,194.0,Shopping,14.0,0,synthetic
+Gowrikrishna.R,2026-08-04,10.5,5,215.0,Bills,14.0,1,synthetic
+Gowrikrishna.R,2026-08-05,10.0,5,176.0,Transport,14.0,0,synthetic
+Gowrikrishna.R,2026-08-06,9.0,5,317.0,Entertainment,14.0,0,synthetic
+Gowrikrishna.R,2026-08-07,8.5,4,200.0,Shopping,14.0,1,synthetic
+Gowrikrishna.R,2026-08-12,10.0,3,50.0,Food,20.0,1,real
+Ishani,2026-07-15,6.9,3,200.0,Entertainment,6.4,0,synthetic
+Ishani,2026-07-16,5.4,3,200.0,Entertainment,8.8,0,synthetic
+Ishani,2026-07-17,6.9,3,113.0,Transport,9.5,1,synthetic
+Ishani,2026-07-18,7.2,4,69.0,Other,8.8,0,synthetic
+Ishani,2026-07-19,7.0,3,205.0,Entertainment,6.1,1,synthetic
+Ishani,2026-07-20,7.0,4,161.0,Food,4.9,1,synthetic
+Ishani,2026-07-21,7.3,4,112.0,Food,9.1,1,synthetic
+Ishani,2026-07-22,5.9,3,266.0,Transport,6.5,1,synthetic
+Ishani,2026-07-23,7.3,4,286.0,Entertainment,7.8,0,synthetic
+Ishani,2026-07-24,8.3,4,109.0,Transport,9.5,1,synthetic
+Ishani,2026-07-25,6.5,3,266.0,Food,9.9,1,synthetic
+Ishani,2026-07-26,6.4,3,75.0,Food,4.5,1,synthetic
+Ishani,2026-07-27,7.0,3,206.0,Bills,10.8,1,synthetic
+Ishani,2026-07-28,5.8,3,231.0,Shopping,5.5,0,synthetic
+Ishani,2026-07-29,5.7,3,252.0,Shopping,8.2,0,synthetic
+Ishani,2026-07-30,7.6,4,180.0,Food,6.7,1,synthetic
+Ishani,2026-07-31,6.2,3,245.0,Food,9.6,0,synthetic
+Ishani,2026-08-01,6.3,3,152.0,Shopping,8.7,1,synthetic
+Ishani,2026-08-02,8.9,4,335.0,Other,5.5,0,synthetic
+Ishani,2026-08-03,6.5,3,173.0,Transport,6.8,0,synthetic
+Ishani,2026-08-04,6.8,3,114.0,Shopping,3.2,0,synthetic
+Ishani,2026-08-05,6.1,3,121.0,Shopping,6.9,0,synthetic
+Ishani,2026-08-06,10.0,5,160.0,Transport,6.1,0,synthetic
+Ishani,2026-08-07,8.3,4,197.0,Transport,5.1,0,synthetic
+Ishani,2026-08-12,7.0,3,200.5,Food,6.0,0,real
+JIJIMOL,2026-07-15,6.0,3,167.0,Shopping,14.0,0,synthetic
+JIJIMOL,2026-07-16,6.1,3,0.0,Transport,14.0,1,synthetic
+JIJIMOL,2026-07-17,5.6,3,173.0,Shopping,14.0,0,synthetic
+JIJIMOL,2026-07-18,5.1,3,310.0,Food,14.0,1,synthetic
+JIJIMOL,2026-07-19,6.9,3,176.0,Food,14.0,0,synthetic
+JIJIMOL,2026-07-20,6.6,3,139.0,Bills,14.0,0,synthetic
+JIJIMOL,2026-07-21,5.6,3,268.0,Bills,14.0,1,synthetic
+JIJIMOL,2026-07-22,6.7,3,262.0,Bills,14.0,1,synthetic
+JIJIMOL,2026-07-23,5.4,3,250.0,Food,14.0,0,synthetic
+JIJIMOL,2026-07-24,4.3,2,145.0,Shopping,14.0,0,synthetic
+JIJIMOL,2026-07-25,6.3,3,304.0,Shopping,14.0,0,synthetic
+JIJIMOL,2026-07-26,6.5,3,204.0,Food,14.0,1,synthetic
+JIJIMOL,2026-07-27,6.4,3,44.0,Entertainment,14.0,1,synthetic
+JIJIMOL,2026-07-28,6.9,3,189.0,Food,14.0,1,synthetic
+JIJIMOL,2026-07-29,6.2,3,78.0,Entertainment,14.0,0,synthetic
+JIJIMOL,2026-07-30,4.0,2,216.0,Transport,14.0,0,synthetic
+JIJIMOL,2026-07-31,3.8,2,230.0,Entertainment,14.0,1,synthetic
+JIJIMOL,2026-08-01,6.0,3,357.0,Shopping,14.0,1,synthetic
+JIJIMOL,2026-08-02,4.9,2,100.0,Shopping,14.0,0,synthetic
+JIJIMOL,2026-08-03,7.3,4,316.0,Food,14.0,0,synthetic
+JIJIMOL,2026-08-04,5.3,3,160.0,Entertainment,14.0,1,synthetic
+JIJIMOL,2026-08-05,5.9,3,249.0,Shopping,14.0,0,synthetic
+JIJIMOL,2026-08-06,6.8,3,172.0,Transport,14.0,1,synthetic
+JIJIMOL,2026-08-07,7.2,4,101.0,Food,14.0,0,synthetic
+JIJIMOL,2026-08-12,6.0,3,200.5,Transport,29.0,1,real
+Nandana.c,2026-07-15,3.5,2,203.0,Food,14.0,1,synthetic
+Nandana.c,2026-07-16,6.8,3,388.0,Food,14.0,1,synthetic
+Nandana.c,2026-07-17,5.9,3,238.0,Food,14.0,1,synthetic
+Nandana.c,2026-07-18,6.6,3,172.0,Food,14.0,1,synthetic
+Nandana.c,2026-07-19,5.9,3,91.0,Transport,14.0,0,synthetic
+Nandana.c,2026-07-20,4.6,2,162.0,Bills,14.0,0,synthetic
+Nandana.c,2026-07-21,5.9,3,279.0,Food,14.0,1,synthetic
+Nandana.c,2026-07-22,6.9,3,196.0,Shopping,14.0,0,synthetic
+Nandana.c,2026-07-23,8.0,4,136.0,Shopping,14.0,0,synthetic
+Nandana.c,2026-07-24,6.4,3,140.0,Food,14.0,0,synthetic
+Nandana.c,2026-07-25,5.1,3,74.0,Bills,14.0,1,synthetic
+Nandana.c,2026-07-26,4.7,2,399.0,Shopping,14.0,0,synthetic
+Nandana.c,2026-07-27,6.1,3,219.0,Food,14.0,0,synthetic
+Nandana.c,2026-07-28,6.6,3,134.0,Transport,14.0,0,synthetic
+Nandana.c,2026-07-29,4.3,2,216.0,Food,14.0,1,synthetic
+Nandana.c,2026-07-30,5.4,3,315.0,Other,14.0,0,synthetic
+Nandana.c,2026-07-31,5.7,3,172.0,Transport,14.0,1,synthetic
+Nandana.c,2026-08-01,6.9,3,235.0,Food,14.0,0,synthetic
+Nandana.c,2026-08-02,5.2,3,201.0,Food,14.0,0,synthetic
+Nandana.c,2026-08-03,3.8,2,278.0,Transport,14.0,1,synthetic
+Nandana.c,2026-08-04,5.9,3,243.0,Food,14.0,1,synthetic
+Nandana.c,2026-08-05,6.1,3,295.0,Transport,14.0,1,synthetic
+Nandana.c,2026-08-06,6.6,3,322.0,Bills,14.0,1,synthetic
+Nandana.c,2026-08-07,5.0,3,202.0,Food,14.0,0,synthetic
+Nandana.c,2026-08-12,6.0,4,50.0,Not spend ,34.0,0,real
+Nidhina c,2026-07-15,5.7,3,148.0,Food,6.2,1,synthetic
+Nidhina c,2026-07-16,10.5,5,213.0,Shopping,8.7,1,synthetic
+Nidhina c,2026-07-17,9.4,5,210.0,Transport,8.0,1,synthetic
+Nidhina c,2026-07-18,6.9,3,197.0,Entertainment,11.5,1,synthetic
+Nidhina c,2026-07-19,6.8,3,110.0,Food,6.4,0,synthetic
+Nidhina c,2026-07-20,7.4,4,37.0,Food,6.5,0,synthetic
+Nidhina c,2026-07-21,6.9,3,274.0,Bills,4.0,0,synthetic
+Nidhina c,2026-07-22,7.6,4,221.0,Transport,3.1,0,synthetic
+Nidhina c,2026-07-23,6.1,3,165.0,Food,6.6,1,synthetic
+Nidhina c,2026-07-24,8.9,4,247.0,Entertainment,8.1,0,synthetic
+Nidhina c,2026-07-25,7.2,4,169.0,Food,6.7,1,synthetic
+Nidhina c,2026-07-26,7.1,4,299.0,Food,7.2,0,synthetic
+Nidhina c,2026-07-27,6.8,3,213.0,Entertainment,8.9,0,synthetic
+Nidhina c,2026-07-28,7.0,4,226.0,Shopping,11.0,1,synthetic
+Nidhina c,2026-07-29,6.9,3,85.0,Transport,5.8,0,synthetic
+Nidhina c,2026-07-30,8.4,4,155.0,Shopping,9.7,0,synthetic
+Nidhina c,2026-07-31,8.8,4,81.0,Other,3.3,0,synthetic
+Nidhina c,2026-08-01,8.6,4,132.0,Bills,7.8,1,synthetic
+Nidhina c,2026-08-02,8.6,4,144.0,Food,3.9,0,synthetic
+Nidhina c,2026-08-03,6.2,3,167.0,Transport,2.9,0,synthetic
+Nidhina c,2026-08-04,6.9,3,211.0,Entertainment,7.4,0,synthetic
+Nidhina c,2026-08-05,6.6,3,240.0,Food,8.7,1,synthetic
+Nidhina c,2026-08-06,8.6,4,213.0,Transport,7.8,0,synthetic
+Nidhina c,2026-08-07,10.5,5,226.0,Food,7.6,0,synthetic
+Nidhina c,2026-08-12,8.0,3,50.0,Food,6.0,0,real
+Peethambaran PP,2026-07-15,9.0,4,191.0,Entertainment,8.7,0,synthetic
+Peethambaran PP,2026-07-16,9.4,5,137.0,Entertainment,6.4,1,synthetic
+Peethambaran PP,2026-07-17,8.4,4,119.0,Food,6.1,1,synthetic
+Peethambaran PP,2026-07-18,9.5,5,165.0,Food,6.1,0,synthetic
+Peethambaran PP,2026-07-19,8.8,4,323.0,Shopping,5.2,0,synthetic
+Peethambaran PP,2026-07-20,8.3,4,142.0,Bills,6.7,0,synthetic
+Peethambaran PP,2026-07-21,7.5,4,166.0,Transport,8.7,1,synthetic
+Peethambaran PP,2026-07-22,6.8,3,246.0,Bills,2.2,1,synthetic
+Peethambaran PP,2026-07-23,7.3,4,194.0,Shopping,10.3,0,synthetic
+Peethambaran PP,2026-07-24,7.9,4,34.0,Entertainment,1.0,1,synthetic
+Peethambaran PP,2026-07-25,6.8,3,207.0,Food,6.6,0,synthetic
+Peethambaran PP,2026-07-26,7.3,4,216.0,Transport,6.1,1,synthetic
+Peethambaran PP,2026-07-27,6.2,3,95.0,Food,5.9,0,synthetic
+Peethambaran PP,2026-07-28,8.3,4,100.0,Shopping,10.9,0,synthetic
+Peethambaran PP,2026-07-29,8.4,4,187.0,Transport,7.4,0,synthetic
+Peethambaran PP,2026-07-30,8.5,4,166.0,Shopping,7.8,0,synthetic
+Peethambaran PP,2026-07-31,7.2,4,294.0,Transport,5.9,1,synthetic
+Peethambaran PP,2026-08-01,6.3,3,217.0,Shopping,4.4,1,synthetic
+Peethambaran PP,2026-08-02,7.5,4,0.0,Bills,3.1,0,synthetic
+Peethambaran PP,2026-08-03,8.9,4,73.0,Other,5.9,1,synthetic
+Peethambaran PP,2026-08-04,8.0,4,57.0,Food,9.8,0,synthetic
+Peethambaran PP,2026-08-05,9.1,5,167.0,Shopping,1.0,1,synthetic
+Peethambaran PP,2026-08-06,6.8,3,128.0,Food,10.5,0,synthetic
+Peethambaran PP,2026-08-07,8.8,4,274.0,Bills,8.6,1,synthetic
+Peethambaran PP,2026-08-12,8.0,4,200.5,Food,6.0,1,real
+Shreya P,2026-07-15,7.1,4,138.0,Entertainment,10.9,1,synthetic
+Shreya P,2026-07-16,7.3,4,111.0,Entertainment,6.9,1,synthetic
+Shreya P,2026-07-17,7.3,4,316.0,Entertainment,10.2,1,synthetic
+Shreya P,2026-07-18,6.6,3,0.0,Food,5.5,1,synthetic
+Shreya P,2026-07-19,7.0,4,308.0,Shopping,9.4,1,synthetic
+Shreya P,2026-07-20,6.7,3,169.0,Bills,9.9,1,synthetic
+Shreya P,2026-07-21,5.2,3,257.0,Shopping,9.2,0,synthetic
+Shreya P,2026-07-22,6.5,3,271.0,Food,11.3,1,synthetic
+Shreya P,2026-07-23,8.0,4,111.0,Bills,8.9,0,synthetic
+Shreya P,2026-07-24,6.4,3,233.0,Entertainment,6.7,1,synthetic
+Shreya P,2026-07-25,6.7,3,106.0,Entertainment,7.7,1,synthetic
+Shreya P,2026-07-26,7.5,4,239.0,Shopping,11.9,0,synthetic
+Shreya P,2026-07-27,6.1,3,50.0,Bills,3.6,1,synthetic
+Shreya P,2026-07-28,8.8,4,228.0,Transport,6.6,0,synthetic
+Shreya P,2026-07-29,7.1,4,208.0,Food,9.2,0,synthetic
+Shreya P,2026-07-30,7.3,4,301.0,Entertainment,11.4,1,synthetic
+Shreya P,2026-07-31,5.8,3,140.0,Shopping,8.1,0,synthetic
+Shreya P,2026-08-01,8.3,4,209.0,Food,8.7,0,synthetic
+Shreya P,2026-08-02,5.8,3,18.0,Food,10.1,1,synthetic
+Shreya P,2026-08-03,7.1,4,196.0,Shopping,14.0,1,synthetic
+Shreya P,2026-08-04,6.7,3,128.0,Shopping,1.3,0,synthetic
+Shreya P,2026-08-05,6.9,3,316.0,Transport,11.3,1,synthetic
+Shreya P,2026-08-06,6.7,3,65.0,Entertainment,14.0,1,synthetic
+Shreya P,2026-08-07,7.1,4,185.0,Food,8.1,1,synthetic
+Shreya P,2026-08-12,7.0,3,750.5,Bills,8.0,0,real
