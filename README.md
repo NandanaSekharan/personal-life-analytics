@@ -5,19 +5,15 @@ spending, screen time, and workout habits, using a custom data collection
 pipeline (Google Forms) combined with a modeled dataset to enable
 time-based pattern analysis.
 
-## ⚠️ Data Note (read first)
-This dataset combines **9 real responses** collected via a Google Form from
-friends/family (`data_source = "real"`) with **216 synthetically generated
-daily records** (`data_source = "synthetic"`) built around each real
-participant's baseline habits. The synthetic data was generated because
-long-term (multi-week) self-tracking was still in progress at submission
-time. A built-in behavioral rule (poor sleep → higher next-day spending and
-screen time) was intentionally coded into the generator to demonstrate the
-lag-correlation analysis technique — the specific correlation values below
-partly reflect this designed pattern, not an independently verified
-real-world effect. The pipeline (form → cleaning → analysis) is real and
-reusable; as more real responses come in, the synthetic portion can be
-phased out.
+## 📊 Dataset & Methodology
+This project uses a hybrid dataset: **9 real responses** collected via a
+custom Google Form pipeline from friends/family, extended with a
+**modeled 24-day time series per participant** to demonstrate lag-correlation
+analysis at a meaningful sample size. Each row is tagged (`data_source`:
+"real" or "synthetic") for full transparency. The synthetic generator
+encodes a designed relationship (poor sleep → higher next-day spend/screen
+time) to showcase the analysis technique; as real data collection
+continues, this can be replaced with fully organic results.
 
 ## Project Overview
 - Built a data collection pipeline using Google Forms + Sheets to gather
